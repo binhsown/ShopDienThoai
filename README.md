@@ -1,4 +1,9 @@
-# Shop Laptop
+# NHÓM 7
+
+- Lý Bình Sơn     2011068718
+- Lưu Đức Hiền    2011064099
+- Lý Đăng Khoa    2011068399
+- Nguyễn Văn Minh 2011063896
 
 # Customer:
 
